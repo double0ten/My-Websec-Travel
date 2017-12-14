@@ -4,6 +4,7 @@ This is the personal website for Lin Shi during CPEG670 Websec. The whole semest
 
 ### Skilled
 · HTML Forms
+
 · PHP scripting
 · SQLite Databases
 · Apache
