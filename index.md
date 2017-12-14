@@ -6,28 +6,28 @@ This is the personal website for Lin Shi during CPEG670 Websec. The whole semest
 - HTML Forms
 - PHP scripting
 - SQLite Databases
-· Apache
-· Sessions & Cookies
-· Mongo DB
-· Oauth
-· MySQL
-· Websockets
-· SSL certs
-· Hashing, Salting, Stretching
-· SQL injection
+- Apache
+- Sessions & Cookies
+- Mongo DB
+- Oauth
+- MySQL
+- Websockets
+- SSL certs
+- Hashing, Salting, Stretching
+- SQL injection
 
 ### Known
-· Javascript
-· NodeJS
-· Express & Angular
-· Role-Based Access Control
-· NIST Cybersecurity Framework
+- Javascript
+- NodeJS
+- Express & Angular
+- Role-Based Access Control
+- NIST Cybersecurity Framework
 
 ### Needed to improve
-· AWS EC2s
-· XSS & CSRF attack skills
-· Serverless-Stacks
-· Session Hijacking
+- AWS EC2s
+- XSS & CSRF attack skills
+- Serverless-Stacks
+- Session Hijacking
 
 
 
