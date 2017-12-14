@@ -1,10 +1,35 @@
 ## Welcome to My Reddit for Websec 670
 
-You can use the [editor on GitHub](https://github.com/double0ten/double0ten.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the personal website for Lin Shi during CPEG670 Websec. The whole semester I got the lot from this class including javascript, website hardening and attacking, sql injection and prevent it, MEAN stack and simple attack and defense skills. More importantly, there are two projects about web skills. Here I will list all of that and divided them accroding to mastery level. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skilled
+· HTML Forms
+· PHP scripting
+· SQLite Databases
+· Apache
+· Sessions & Cookies
+· Mongo DB
+· Oauth
+· MySQL
+· Websockets
+· SSL certs
+· Hashing, Salting, Stretching
+· SQL injection
 
-### Markdown
+### Known
+· Javascript
+· NodeJS
+· Express & Angular
+· Role-Based Access Control
+· NIST Cybersecurity Framework
+
+### Needed to improve
+· AWS EC2s
+· XSS & CSRF attack skills
+· Serverless-Stacks
+· Session Hijacking
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
