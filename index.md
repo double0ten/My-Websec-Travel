@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Reddit for Websec 670
 
 You can use the [editor on GitHub](https://github.com/double0ten/double0ten.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
