@@ -29,7 +29,7 @@ This is the personal website for Lin Shi during CPEG670 Websec. The whole semest
 - Serverless-Stacks
 - Session Hijacking
 
-
+In one word, I think the most urgent thing I needed to improve is the my basic website attacking and defensing skills like XSS & CSRF. This is not only the key knowledge for the class, but also the key stone for my future, because I really want to be a good researcher in the network security field. I do a lot of pratice about CTF, and web part is also my weakest part. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
