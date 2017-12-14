@@ -3,7 +3,7 @@
 This is the personal website for Lin Shi during CPEG670 Websec. The whole semester I got the lot from this class including javascript, website hardening and attacking, sql injection and prevent it, MEAN stack and simple attack and defense skills. More importantly, there are two projects about web skills. Here I will list all of that and divided them accroding to mastery level. 
 
 ### Skilled
-· HTML Forms \n
+· HTML Forms
 · PHP scripting
 · SQLite Databases
 · Apache
