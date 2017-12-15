@@ -42,4 +42,4 @@ At these three months websec security travel, we did two major projects about we
 
 ## Future things
 
-
+In one word, think more, do more! According to the studying process of this whole semester, I could clearly understand which things I need to improve. I will keep going with these things especially these security skills.
