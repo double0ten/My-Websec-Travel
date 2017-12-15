@@ -36,9 +36,9 @@ In one word, I think the most urgent thing I needed to improve is the my basic w
 
 At these three months websec security travel, we did two major projects about websec.
 
-1. [Text-twist](https://c9.io/double0ten/project_r)
+1. [Text-twist](http://texttwist.hahaha.host/)
 
-2. [MEAN Stack Auth System](https://ide.c9.io/zhangqx/project22)
+2. [MEAN Stack Auth System](http://oauth.hahaha.host/)
 
 ## Future things
 
